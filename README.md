@@ -8,6 +8,10 @@
 
 ###
 
+[![Musfika's GitHub stats](https://github-readme-stats.vercel.app/api?username=musfikanoni)](https://github.com/musfikanoni/github-readme-stats)
+
+###
+
 <h2 align="center">About me</h2>
 
 ###
