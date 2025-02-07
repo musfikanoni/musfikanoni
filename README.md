@@ -4,11 +4,16 @@
 
 ###
 
-<h1 align="left">Hey There ..👋 I'm Musfika Naznin Oni!</h1>
+<h1 align="center">Hey There ..👋 I'm Musfika Naznin Oni!</h1>
 
 ###
 
-[![Musfika's GitHub stats](https://github-readme-stats.vercel.app/api?username=musfikanoni)](https://github.com/musfikanoni/github-readme-stats)
+<div align="center">
+
+[![Musfika's GitHub stats](https://github-readme-stats.vercel.app/api?username=musfikanoni&show_icons=true&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&icon_color=00FF00&ring_color=00FF00)](https://github.com/musfikanoni/github-readme-stats)
+
+</div>
+
 
 ###
 
