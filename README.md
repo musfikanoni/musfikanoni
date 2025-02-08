@@ -4,15 +4,27 @@
 
 ###
 
-<h1 align="center">Hey There ..👋 I'm Musfika Naznin Oni!</h1>
-
-###
-
 <div align="center">
 
-[![Musfika's GitHub stats](https://github-readme-stats.vercel.app/api?username=musfikanoni&show_icons=true&theme=transparent&border_color=00FF00&text_color=FFFFFF&title_color=FFFFFF&icon_color=00FF00&ring_color=00FF00)](https://github.com/musfikanoni/github-readme-stats)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Musfika+Naznin+Oni;+Welcome+to+My+Profile)](https://git.io/typing-svg)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfikanoni&theme=transparent&show_icons=true&count_private=true)
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/musfikanoni/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=musfikanoni&show_icons=true&theme=transparent&border_color=00FF00&text_color=FFFFFF&title_color=FFFFFF&icon_color=00FF00&ring_color=00FF00&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/musfikanoni">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=musfikanoni&theme=transparent&ring=FF5733&stroke=FFFFFF&fire=FF5733&currStreakLabel=FF5733&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00FF00&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
