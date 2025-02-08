@@ -27,6 +27,7 @@
   </table>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musfikanoni&theme=transparent&border_color=A9A9A9&text_color=FFFFFF&title_color=FFFFFF&layout=pie)](https://github.com/musfikanoni/github-readme-stats)
 
 ###
 
